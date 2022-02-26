@@ -1,0 +1,4 @@
+# custom_fts_parser extension
+comment = 'custom_fts_parser - a sample full-text search parser looking for slashes and whitespace'
+default_version = '1.0'
+module_pathname = '$libdir/custom_fts_parser'
